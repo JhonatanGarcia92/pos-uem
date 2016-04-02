@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Javascript",
+    "usadaPara": ["Backend","FrontEnd","Banco de Dados", "Microcontroladores"]
+  }, {
+    "name": "Java",
+    "usadaPara": ["Backend","JSP"]
+  },
+  {
+    "name": "PHP",
+    "usadaPara": ["Wordpress","FrontEnd","Backend"]
+  },{
+    "name": "Ruby",
+    "usadaPara": ["Backend"]
+  }, {
+    "name": "C++",
+    "usadaPara": ["Aplicações Científicas", "Backend"]
+  }
+]
